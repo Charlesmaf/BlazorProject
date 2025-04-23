@@ -1,0 +1,11 @@
+C:\Users\Mingas\Downloads\tests\Blazor\Jobs.BlazorServer.Server\Jobs.BlazorServer.Server\Jobs.BlazorServer.Infrastucture\bin\Debug\net7.0\Jobs.BlazorServer.Infrastucture.deps.json
+C:\Users\Mingas\Downloads\tests\Blazor\Jobs.BlazorServer.Server\Jobs.BlazorServer.Server\Jobs.BlazorServer.Infrastucture\bin\Debug\net7.0\Jobs.BlazorServer.Infrastucture.dll
+C:\Users\Mingas\Downloads\tests\Blazor\Jobs.BlazorServer.Server\Jobs.BlazorServer.Server\Jobs.BlazorServer.Infrastucture\bin\Debug\net7.0\Jobs.BlazorServer.Infrastucture.pdb
+C:\Users\Mingas\Downloads\tests\Blazor\Jobs.BlazorServer.Server\Jobs.BlazorServer.Server\Jobs.BlazorServer.Infrastucture\obj\Debug\net7.0\Jobs.BlazorServer.Infrastucture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mingas\Downloads\tests\Blazor\Jobs.BlazorServer.Server\Jobs.BlazorServer.Server\Jobs.BlazorServer.Infrastucture\obj\Debug\net7.0\Jobs.BlazorServer.Infrastucture.AssemblyInfoInputs.cache
+C:\Users\Mingas\Downloads\tests\Blazor\Jobs.BlazorServer.Server\Jobs.BlazorServer.Server\Jobs.BlazorServer.Infrastucture\obj\Debug\net7.0\Jobs.BlazorServer.Infrastucture.AssemblyInfo.cs
+C:\Users\Mingas\Downloads\tests\Blazor\Jobs.BlazorServer.Server\Jobs.BlazorServer.Server\Jobs.BlazorServer.Infrastucture\obj\Debug\net7.0\Jobs.BlazorServer.Infrastucture.csproj.CoreCompileInputs.cache
+C:\Users\Mingas\Downloads\tests\Blazor\Jobs.BlazorServer.Server\Jobs.BlazorServer.Server\Jobs.BlazorServer.Infrastucture\obj\Debug\net7.0\Jobs.BlazorServer.Infrastucture.dll
+C:\Users\Mingas\Downloads\tests\Blazor\Jobs.BlazorServer.Server\Jobs.BlazorServer.Server\Jobs.BlazorServer.Infrastucture\obj\Debug\net7.0\refint\Jobs.BlazorServer.Infrastucture.dll
+C:\Users\Mingas\Downloads\tests\Blazor\Jobs.BlazorServer.Server\Jobs.BlazorServer.Server\Jobs.BlazorServer.Infrastucture\obj\Debug\net7.0\Jobs.BlazorServer.Infrastucture.pdb
+C:\Users\Mingas\Downloads\tests\Blazor\Jobs.BlazorServer.Server\Jobs.BlazorServer.Server\Jobs.BlazorServer.Infrastucture\obj\Debug\net7.0\ref\Jobs.BlazorServer.Infrastucture.dll

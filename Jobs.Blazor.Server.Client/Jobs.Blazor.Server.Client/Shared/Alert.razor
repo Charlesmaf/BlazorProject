@@ -1,0 +1,50 @@
+﻿@if (!string.IsNullOrEmpty(Message))
+{
+    <div class="@AlertTypeClass" role="alert">
+        @Message
+        @if (Dismissable)
+        {
+            <button type="button" class="btn-close" @onclick="Dismiss"></button>
+        }
+    </div>
+}
+
+@code {
+    [Parameter]
+    public string? Message { get; set; }
+
+    [Parameter]
+    public AlertType Type { get; set; } = AlertType.Info;
+
+    [Parameter]
+    public bool Dismissable { get; set; } = false;
+
+    private string AlertTypeClass
+    {
+        get
+        {
+            return Type switch
+            {
+                AlertType.Success => "alert alert-success",
+                AlertType.Info => "alert alert-info",
+                AlertType.Warning => "alert alert-warning",
+                AlertType.Danger => "alert alert-danger",
+                _ => "alert alert-info" // Default to info
+            };
+        }
+    }
+
+    private void Dismiss()
+    {
+        Message = null;
+        StateHasChanged(); // Re-render the component to hide the alert
+    }
+
+    public enum AlertType
+    {
+        Success,
+        Info,
+        Warning,
+        Danger
+    }
+}

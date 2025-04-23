@@ -1,0 +1,166 @@
+/* _content/Jobs.Blazor.Server.Client/Shared/MainLayout.razor.rz.scp.css */
+.page[b-lt1r3f6myk] {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+
+main[b-lt1r3f6myk] {
+    flex: 1;
+}
+
+.sidebar[b-lt1r3f6myk] {
+    /*    background-image: linear-gradient(180deg, rgb(5, 39, 103) 0%, #3a0647 70%);*/
+    background-color: #f7f7f7;
+}
+
+.top-row[b-lt1r3f6myk] {
+    background-color: #f7f7f7;
+    border-bottom: 1px solid #d6d5d5;
+    justify-content: flex-end;
+    height: 3.5rem;
+    display: flex;
+    align-items: center;
+}
+
+    .top-row[b-lt1r3f6myk]  a, .top-row .btn-link[b-lt1r3f6myk] {
+        white-space: nowrap;
+        margin-left: 1.5rem;
+    }
+
+    .top-row a:first-child[b-lt1r3f6myk] {
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+
+@media (max-width: 640.98px) {
+    .top-row:not(.auth)[b-lt1r3f6myk] {
+        display: none;
+    }
+
+    .top-row.auth[b-lt1r3f6myk] {
+        justify-content: space-between;
+    }
+
+    .top-row a[b-lt1r3f6myk], .top-row .btn-link[b-lt1r3f6myk] {
+        margin-left: 0;
+    }
+}
+
+@media (min-width: 641px) {
+    .page[b-lt1r3f6myk] {
+        flex-direction: row;
+    }
+
+    .sidebar[b-lt1r3f6myk] {
+        width: 250px;
+        height: 100vh;
+        position: sticky;
+        top: 0;
+    }
+
+    .top-row[b-lt1r3f6myk] {
+        position: sticky;
+        top: 0;
+        z-index: 1;
+    }
+
+    .top-row[b-lt1r3f6myk], article[b-lt1r3f6myk] {
+        padding-left: 2rem !important;
+        padding-right: 1.5rem !important;
+    }
+}
+/* _content/Jobs.Blazor.Server.Client/Shared/NavMenu.razor.rz.scp.css */
+.navbar-toggler[b-ffe6e83u3t] {
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+.top-row[b-ffe6e83u3t] {
+    height: 3.5rem;
+    background-color: #f7f7f7;
+}
+
+.navbar-brand[b-ffe6e83u3t] {
+    font-size: 1.1rem;
+}
+
+.oi[b-ffe6e83u3t] {
+    width: 2rem;
+    font-size: 1.1rem;
+    vertical-align: text-top;
+    top: -2px;
+}
+
+.nav-item[b-ffe6e83u3t] {
+    font-size: 0.9rem;
+    padding-bottom: 0.5rem;
+}
+
+    .nav-item:first-of-type[b-ffe6e83u3t] {
+        padding-top: 1rem;
+    }
+
+    .nav-item:last-of-type[b-ffe6e83u3t] {
+        padding-bottom: 1rem;
+    }
+
+    .nav-item[b-ffe6e83u3t]  a {
+        color: #d7d7d7;
+        border-radius: 4px;
+        height: 3rem;
+        display: flex;
+        align-items: center;
+        line-height: 3rem;
+    }
+
+.nav-item[b-ffe6e83u3t]  a.active {
+    background-color: rgba(255,255,255,0.25);
+    color: white;
+}
+
+.nav-item[b-ffe6e83u3t]  a:hover {
+    background-color: rgba(255,255,255,0.1);
+    color: white;
+}
+
+/* Styles for smaller screens */
+@media (max-width: 640px) {
+    .navbar-toggler[b-ffe6e83u3t] {
+        display: block; /* Make the hamburger button visible on small screens */
+    }
+
+    .nav-scrollable[b-ffe6e83u3t] {
+        display: none; /* Initially hide the menu on small screens */
+        height: auto;
+        overflow-y: auto;
+        flex: none;
+    }
+
+        .nav-scrollable:not(.collapse)[b-ffe6e83u3t] {
+            display: block; /* Show menu when toggled */
+        }
+}
+
+/* Styles for larger screens (you might need to adjust these) */
+@media (min-width: 641px) {
+    /* You might want to adjust how the navigation and toggler behave here */
+    /* If you want the toggler visible, ensure no 'display: none;' is applied */
+
+    .collapse[b-ffe6e83u3t] {
+        /* If you want the menu always visible on desktop, keep this */
+        display: block;
+    }
+
+    .nav-scrollable[b-ffe6e83u3t] {
+        height: calc(100vh - 3.5rem);
+        overflow-y: auto;
+        flex: 1;
+        display: block; /* Ensure the menu is visible on desktop */
+    }
+}
+
+/* General styles (outside media queries) */
+.navbar-toggler[b-ffe6e83u3t] {
+    /* You can add general styling for the toggler here if needed */
+    /* Ensure no 'display: none;' is set here either */
+}

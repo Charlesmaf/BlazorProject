@@ -1,0 +1,12 @@
+C:\Users\Mingas\Downloads\tests\Blazor\Jobs.Blazor.Server.Client\Jobs.Blazor.Server.Client.Service\bin\Debug\net7.0\Jobs.Blazor.Server.Client.Service.deps.json
+C:\Users\Mingas\Downloads\tests\Blazor\Jobs.Blazor.Server.Client\Jobs.Blazor.Server.Client.Service\bin\Debug\net7.0\Jobs.Blazor.Server.Client.Service.dll
+C:\Users\Mingas\Downloads\tests\Blazor\Jobs.Blazor.Server.Client\Jobs.Blazor.Server.Client.Service\bin\Debug\net7.0\Jobs.Blazor.Server.Client.Service.pdb
+C:\Users\Mingas\Downloads\tests\Blazor\Jobs.Blazor.Server.Client\Jobs.Blazor.Server.Client.Service\obj\Debug\net7.0\Jobs.Blazor.Server.Client.Service.csproj.AssemblyReference.cache
+C:\Users\Mingas\Downloads\tests\Blazor\Jobs.Blazor.Server.Client\Jobs.Blazor.Server.Client.Service\obj\Debug\net7.0\Jobs.Blazor.Server.Client.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mingas\Downloads\tests\Blazor\Jobs.Blazor.Server.Client\Jobs.Blazor.Server.Client.Service\obj\Debug\net7.0\Jobs.Blazor.Server.Client.Service.AssemblyInfoInputs.cache
+C:\Users\Mingas\Downloads\tests\Blazor\Jobs.Blazor.Server.Client\Jobs.Blazor.Server.Client.Service\obj\Debug\net7.0\Jobs.Blazor.Server.Client.Service.AssemblyInfo.cs
+C:\Users\Mingas\Downloads\tests\Blazor\Jobs.Blazor.Server.Client\Jobs.Blazor.Server.Client.Service\obj\Debug\net7.0\Jobs.Blazor.Server.Client.Service.csproj.CoreCompileInputs.cache
+C:\Users\Mingas\Downloads\tests\Blazor\Jobs.Blazor.Server.Client\Jobs.Blazor.Server.Client.Service\obj\Debug\net7.0\Jobs.Blazor.Server.Client.Service.dll
+C:\Users\Mingas\Downloads\tests\Blazor\Jobs.Blazor.Server.Client\Jobs.Blazor.Server.Client.Service\obj\Debug\net7.0\refint\Jobs.Blazor.Server.Client.Service.dll
+C:\Users\Mingas\Downloads\tests\Blazor\Jobs.Blazor.Server.Client\Jobs.Blazor.Server.Client.Service\obj\Debug\net7.0\Jobs.Blazor.Server.Client.Service.pdb
+C:\Users\Mingas\Downloads\tests\Blazor\Jobs.Blazor.Server.Client\Jobs.Blazor.Server.Client.Service\obj\Debug\net7.0\ref\Jobs.Blazor.Server.Client.Service.dll

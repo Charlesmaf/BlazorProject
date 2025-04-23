@@ -1,0 +1,115 @@
+﻿@using Jobs.Blazor.Server.Client.Service.Contracts
+@using Jobs.Blazor.Server.Client.Service.Model
+@using static Jobs.Blazor.Server.Client.Shared.Alert
+@inject IJobService jobsService
+
+@* <Loader IsLoading="@isLoading" /> *@
+<div class="container-fluid mt-2 px-2 jobs-bg rounded-all">
+    <div class="table-responsive">
+        <table class="table table-responsive table-borderless">
+
+            <thead class="thead-bottom-border">
+                <tr class="jobs-bg" style="color:#1A1A1AB2;">
+                    <th scope="col" ><input class="form-check-input" type="checkbox"></th>
+                    <th scope="col" width="5%" class="text-center" @onclick="() => SortByColumn(nameof(JobsModel.Id))">ID <i class="bi bi-chevron-down"></i></th>
+                    <th scope="col" width="20%" class="text-center" @onclick="() => SortByColumn(nameof(JobsModel.Title))">Name <i class="bi bi-chevron-down"></i></th>
+                    <th scope="col" width="20%" class="text-center d-none d-md-table-cell" @onclick="() => SortByColumn(nameof(JobsModel.ContactEmail))">Email address <i class="bi bi-chevron-down"></i></th>
+                    <th scope="col" width="20%" class="text-center d-none d-md-table-cell" @onclick="() => SortByColumn(nameof(JobsModel.Company))">Cellphone number <i class="bi bi-chevron-down"></i></th>
+                    <th scope="col" width="15%" class="text-center d-none d-md-table-cell" @onclick="() => SortByColumn(nameof(JobsModel.Location))">Address <i class="bi bi-chevron-down"></i></th>
+                    <th scope="col" width="20%" class="text-center d-none d-md-table-cell" @onclick="() => SortByColumn(nameof(JobsModel.Salary))">Sales value <i class="bi bi-chevron-down"></i></th>
+                </tr>
+            </thead>
+            <tbody class="small-font">
+                @if (isLoading)
+                {
+                    
+                    <tr>
+                        <td colspan="7" class="text-center"><strong><Loader IsLoading="@isLoading" /></strong></td>
+                    </tr>
+                }
+                else if (jobs != null && jobs.Count > 0)
+                {
+                    foreach (var job in jobs)
+                    {
+                        <tr>
+                            <th scope="row"><input class="form-check-input" type="checkbox"></th>
+                            <td>@job.Id</td>
+                            <td>@job.Title</td>
+                            <td class="d-none d-md-table-cell">@job.ContactEmail</td>
+                            <td class="d-none d-md-table-cell">@job.Company</td>
+                            <td class="d-none d-md-table-cell">@job.Location</td>
+                            <td class="d-none d-md-table-cell"
+                            >@job.Salary</td>
+                        </tr>
+                    }
+                }
+                else if(!isLoading)
+                {
+                    <tr>
+                        <td colspan="7" class="text-center"><strong>No {{items.names}} found.</strong></td>
+                    </tr>
+                    <tr>
+                        <td colspan="7" class="text-center">Create a new {{item.name}} to start managing your data below</td>
+                    </tr>
+                    <tr>
+                        <td colspan="7" class="text-center">
+                            <button class="btn base-btn-bg text-center px-3">
+                                Create {{item.name}}
+                            </button>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+
+    </div>
+</div>
+<div class="m-2">
+    <Alert Message="@errorMessage" Type="AlertType.Danger" Dismissable="true" />
+</div>
+@code {
+    private List<JobsModel>? jobs;
+    private string? errorMessage;
+    private string currentSortColumn = string.Empty;
+    private bool sortAscending = true;
+    private bool isLoading = false;
+    protected override async Task OnInitializedAsync()
+    {
+        isLoading = true;
+        var response = await jobsService.GetJobsAsync();
+        isLoading = false;
+        if (response.Success && response.Content.Count > 0)
+        {
+            jobs = response.Content;
+        }
+        else 
+        {
+            errorMessage = "An error occurred while processing your request. Please contact support";
+        }
+
+       
+    }
+    private void SortByColumn(string columnName)
+    {
+        if (jobs == null) return;
+
+        if (currentSortColumn == columnName)
+        {
+            sortAscending = !sortAscending;
+        }
+        else
+        {
+            currentSortColumn = columnName;
+            sortAscending = true;
+        }
+
+        jobs = sortAscending
+            ? jobs.OrderBy(job => GetPropertyValue(job, columnName)).ToList()
+            : jobs.OrderByDescending(job => GetPropertyValue(job, columnName)).ToList();
+    }
+
+    private object? GetPropertyValue(JobsModel job, string propertyName)
+    {
+        return typeof(JobsModel).GetProperty(propertyName)?.GetValue(job);
+    }
+}

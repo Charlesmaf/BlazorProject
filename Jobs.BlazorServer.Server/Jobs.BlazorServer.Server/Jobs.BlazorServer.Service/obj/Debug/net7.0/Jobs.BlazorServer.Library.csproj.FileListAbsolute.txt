@@ -1,0 +1,15 @@
+C:\Users\Mingas\Downloads\tests\Blazor\Jobs.BlazorServer.Server\Jobs.BlazorServer.Server\Jobs.BlazorServer.Service\bin\Debug\net7.0\Jobs.BlazorServer.Library.deps.json
+C:\Users\Mingas\Downloads\tests\Blazor\Jobs.BlazorServer.Server\Jobs.BlazorServer.Server\Jobs.BlazorServer.Service\bin\Debug\net7.0\Jobs.BlazorServer.Library.dll
+C:\Users\Mingas\Downloads\tests\Blazor\Jobs.BlazorServer.Server\Jobs.BlazorServer.Server\Jobs.BlazorServer.Service\bin\Debug\net7.0\Jobs.BlazorServer.Library.pdb
+C:\Users\Mingas\Downloads\tests\Blazor\Jobs.BlazorServer.Server\Jobs.BlazorServer.Server\Jobs.BlazorServer.Service\bin\Debug\net7.0\Jobs.BlazorServer.Infrastucture.dll
+C:\Users\Mingas\Downloads\tests\Blazor\Jobs.BlazorServer.Server\Jobs.BlazorServer.Server\Jobs.BlazorServer.Service\bin\Debug\net7.0\Jobs.BlazorServer.Infrastucture.pdb
+C:\Users\Mingas\Downloads\tests\Blazor\Jobs.BlazorServer.Server\Jobs.BlazorServer.Server\Jobs.BlazorServer.Service\obj\Debug\net7.0\Jobs.BlazorServer.Library.csproj.AssemblyReference.cache
+C:\Users\Mingas\Downloads\tests\Blazor\Jobs.BlazorServer.Server\Jobs.BlazorServer.Server\Jobs.BlazorServer.Service\obj\Debug\net7.0\Jobs.BlazorServer.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mingas\Downloads\tests\Blazor\Jobs.BlazorServer.Server\Jobs.BlazorServer.Server\Jobs.BlazorServer.Service\obj\Debug\net7.0\Jobs.BlazorServer.Library.AssemblyInfoInputs.cache
+C:\Users\Mingas\Downloads\tests\Blazor\Jobs.BlazorServer.Server\Jobs.BlazorServer.Server\Jobs.BlazorServer.Service\obj\Debug\net7.0\Jobs.BlazorServer.Library.AssemblyInfo.cs
+C:\Users\Mingas\Downloads\tests\Blazor\Jobs.BlazorServer.Server\Jobs.BlazorServer.Server\Jobs.BlazorServer.Service\obj\Debug\net7.0\Jobs.BlazorServer.Library.csproj.CoreCompileInputs.cache
+C:\Users\Mingas\Downloads\tests\Blazor\Jobs.BlazorServer.Server\Jobs.BlazorServer.Server\Jobs.BlazorServer.Service\obj\Debug\net7.0\Jobs.Bla.DF800861.Up2Date
+C:\Users\Mingas\Downloads\tests\Blazor\Jobs.BlazorServer.Server\Jobs.BlazorServer.Server\Jobs.BlazorServer.Service\obj\Debug\net7.0\Jobs.BlazorServer.Library.dll
+C:\Users\Mingas\Downloads\tests\Blazor\Jobs.BlazorServer.Server\Jobs.BlazorServer.Server\Jobs.BlazorServer.Service\obj\Debug\net7.0\refint\Jobs.BlazorServer.Library.dll
+C:\Users\Mingas\Downloads\tests\Blazor\Jobs.BlazorServer.Server\Jobs.BlazorServer.Server\Jobs.BlazorServer.Service\obj\Debug\net7.0\Jobs.BlazorServer.Library.pdb
+C:\Users\Mingas\Downloads\tests\Blazor\Jobs.BlazorServer.Server\Jobs.BlazorServer.Server\Jobs.BlazorServer.Service\obj\Debug\net7.0\ref\Jobs.BlazorServer.Library.dll

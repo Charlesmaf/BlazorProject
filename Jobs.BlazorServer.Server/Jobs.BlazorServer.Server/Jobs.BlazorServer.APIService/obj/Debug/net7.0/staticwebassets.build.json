@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "E6hcLDRF/+H8mR5QnHLczmrh+GUh+4oUZkZA08xp09Y=",
+  "Source": "Jobs.BlazorServer.APIService",
+  "BasePath": "_content/Jobs.BlazorServer.APIService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

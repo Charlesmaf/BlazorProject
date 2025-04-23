@@ -1,0 +1,249 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mingas\\Downloads\\tests\\Blazor\\Jobs.Blazor.Server.Client\\Jobs.Blazor.Server.Client\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A471A031-99D8-4919-AD1B-4EC9B20818FC}|Jobs.Blazor.Server.Client.csproj|c:\\users\\mingas\\downloads\\tests\\blazor\\jobs.blazor.server.client\\jobs.blazor.server.client\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A471A031-99D8-4919-AD1B-4EC9B20818FC}|Jobs.Blazor.Server.Client.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A471A031-99D8-4919-AD1B-4EC9B20818FC}|Jobs.Blazor.Server.Client.csproj|c:\\users\\mingas\\downloads\\tests\\blazor\\jobs.blazor.server.client\\jobs.blazor.server.client\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A471A031-99D8-4919-AD1B-4EC9B20818FC}|Jobs.Blazor.Server.Client.csproj|solutionrelative:shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A471A031-99D8-4919-AD1B-4EC9B20818FC}|Jobs.Blazor.Server.Client.csproj|c:\\users\\mingas\\downloads\\tests\\blazor\\jobs.blazor.server.client\\jobs.blazor.server.client\\data\\jobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A471A031-99D8-4919-AD1B-4EC9B20818FC}|Jobs.Blazor.Server.Client.csproj|solutionrelative:data\\jobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A471A031-99D8-4919-AD1B-4EC9B20818FC}|Jobs.Blazor.Server.Client.csproj|c:\\users\\mingas\\downloads\\tests\\blazor\\jobs.blazor.server.client\\jobs.blazor.server.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A471A031-99D8-4919-AD1B-4EC9B20818FC}|Jobs.Blazor.Server.Client.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A471A031-99D8-4919-AD1B-4EC9B20818FC}|Jobs.Blazor.Server.Client.csproj|c:\\users\\mingas\\downloads\\tests\\blazor\\jobs.blazor.server.client\\jobs.blazor.server.client\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A471A031-99D8-4919-AD1B-4EC9B20818FC}|Jobs.Blazor.Server.Client.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A471A031-99D8-4919-AD1B-4EC9B20818FC}|Jobs.Blazor.Server.Client.csproj|c:\\users\\mingas\\downloads\\tests\\blazor\\jobs.blazor.server.client\\jobs.blazor.server.client\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A471A031-99D8-4919-AD1B-4EC9B20818FC}|Jobs.Blazor.Server.Client.csproj|solutionrelative:shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A471A031-99D8-4919-AD1B-4EC9B20818FC}|Jobs.Blazor.Server.Client.csproj|c:\\users\\mingas\\downloads\\tests\\blazor\\jobs.blazor.server.client\\jobs.blazor.server.client\\pages\\jobspage\\jobstable.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A471A031-99D8-4919-AD1B-4EC9B20818FC}|Jobs.Blazor.Server.Client.csproj|solutionrelative:pages\\jobspage\\jobstable.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A471A031-99D8-4919-AD1B-4EC9B20818FC}|Jobs.Blazor.Server.Client.csproj|c:\\users\\mingas\\downloads\\tests\\blazor\\jobs.blazor.server.client\\jobs.blazor.server.client\\pages\\jobspage\\filter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A471A031-99D8-4919-AD1B-4EC9B20818FC}|Jobs.Blazor.Server.Client.csproj|solutionrelative:pages\\jobspage\\filter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A471A031-99D8-4919-AD1B-4EC9B20818FC}|Jobs.Blazor.Server.Client.csproj|c:\\users\\mingas\\downloads\\tests\\blazor\\jobs.blazor.server.client\\jobs.blazor.server.client\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A471A031-99D8-4919-AD1B-4EC9B20818FC}|Jobs.Blazor.Server.Client.csproj|solutionrelative:pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A471A031-99D8-4919-AD1B-4EC9B20818FC}|Jobs.Blazor.Server.Client.csproj|c:\\users\\mingas\\downloads\\tests\\blazor\\jobs.blazor.server.client\\jobs.blazor.server.client\\pages\\jobspage\\jobspage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A471A031-99D8-4919-AD1B-4EC9B20818FC}|Jobs.Blazor.Server.Client.csproj|solutionrelative:pages\\jobspage\\jobspage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A471A031-99D8-4919-AD1B-4EC9B20818FC}|Jobs.Blazor.Server.Client.csproj|c:\\users\\mingas\\downloads\\tests\\blazor\\jobs.blazor.server.client\\jobs.blazor.server.client\\shared\\loader.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A471A031-99D8-4919-AD1B-4EC9B20818FC}|Jobs.Blazor.Server.Client.csproj|solutionrelative:shared\\loader.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A471A031-99D8-4919-AD1B-4EC9B20818FC}|Jobs.Blazor.Server.Client.csproj|c:\\users\\mingas\\downloads\\tests\\blazor\\jobs.blazor.server.client\\jobs.blazor.server.client\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A471A031-99D8-4919-AD1B-4EC9B20818FC}|Jobs.Blazor.Server.Client.csproj|solutionrelative:app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A471A031-99D8-4919-AD1B-4EC9B20818FC}|Jobs.Blazor.Server.Client.csproj|c:\\users\\mingas\\downloads\\tests\\blazor\\jobs.blazor.server.client\\jobs.blazor.server.client\\pages\\jobspage\\commandbar.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A471A031-99D8-4919-AD1B-4EC9B20818FC}|Jobs.Blazor.Server.Client.csproj|solutionrelative:pages\\jobspage\\commandbar.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 333,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "JobsPage.razor",
+              "DocumentMoniker": "C:\\Users\\Mingas\\Downloads\\tests\\Blazor\\Jobs.Blazor.Server.Client\\Jobs.Blazor.Server.Client\\Pages\\JobsPage\\JobsPage.razor",
+              "RelativeDocumentMoniker": "Pages\\JobsPage\\JobsPage.razor",
+              "ToolTip": "C:\\Users\\Mingas\\Downloads\\tests\\Blazor\\Jobs.Blazor.Server.Client\\Jobs.Blazor.Server.Client\\Pages\\JobsPage\\JobsPage.razor",
+              "RelativeToolTip": "Pages\\JobsPage\\JobsPage.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-20T19:34:54.819Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\Mingas\\Downloads\\tests\\Blazor\\Jobs.Blazor.Server.Client\\Jobs.Blazor.Server.Client\\Shared\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Shared\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\Mingas\\Downloads\\tests\\Blazor\\Jobs.Blazor.Server.Client\\Jobs.Blazor.Server.Client\\Shared\\MainLayout.razor",
+              "RelativeToolTip": "Shared\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-20T19:36:44.722Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\Mingas\\Downloads\\tests\\Blazor\\Jobs.Blazor.Server.Client\\Jobs.Blazor.Server.Client\\Shared\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Shared\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\Mingas\\Downloads\\tests\\Blazor\\Jobs.Blazor.Server.Client\\Jobs.Blazor.Server.Client\\Shared\\NavMenu.razor",
+              "RelativeToolTip": "Shared\\NavMenu.razor",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAAANYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-20T19:38:49.451Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CommandBar.razor",
+              "DocumentMoniker": "C:\\Users\\Mingas\\Downloads\\tests\\Blazor\\Jobs.Blazor.Server.Client\\Jobs.Blazor.Server.Client\\Pages\\JobsPage\\CommandBar.razor",
+              "RelativeDocumentMoniker": "Pages\\JobsPage\\CommandBar.razor",
+              "ToolTip": "C:\\Users\\Mingas\\Downloads\\tests\\Blazor\\Jobs.Blazor.Server.Client\\Jobs.Blazor.Server.Client\\Pages\\JobsPage\\CommandBar.razor",
+              "RelativeToolTip": "Pages\\JobsPage\\CommandBar.razor",
+              "ViewState": "AgIAACUAAAAAAAAAAADwvzYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T09:09:42.284Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Mingas\\Downloads\\tests\\Blazor\\Jobs.Blazor.Server.Client\\Jobs.Blazor.Server.Client\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Mingas\\Downloads\\tests\\Blazor\\Jobs.Blazor.Server.Client\\Jobs.Blazor.Server.Client\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-23T19:48:41.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mingas\\Downloads\\tests\\Blazor\\Jobs.Blazor.Server.Client\\Jobs.Blazor.Server.Client\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Mingas\\Downloads\\tests\\Blazor\\Jobs.Blazor.Server.Client\\Jobs.Blazor.Server.Client\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T19:46:22.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Loader.razor",
+              "DocumentMoniker": "C:\\Users\\Mingas\\Downloads\\tests\\Blazor\\Jobs.Blazor.Server.Client\\Jobs.Blazor.Server.Client\\Shared\\Loader.razor",
+              "RelativeDocumentMoniker": "Shared\\Loader.razor",
+              "ToolTip": "C:\\Users\\Mingas\\Downloads\\tests\\Blazor\\Jobs.Blazor.Server.Client\\Jobs.Blazor.Server.Client\\Shared\\Loader.razor",
+              "RelativeToolTip": "Shared\\Loader.razor",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T19:27:54.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JobService.cs",
+              "DocumentMoniker": "C:\\Users\\Mingas\\Downloads\\tests\\Blazor\\Jobs.Blazor.Server.Client\\Jobs.Blazor.Server.Client\\Data\\JobService.cs",
+              "RelativeDocumentMoniker": "Data\\JobService.cs",
+              "ToolTip": "C:\\Users\\Mingas\\Downloads\\tests\\Blazor\\Jobs.Blazor.Server.Client\\Jobs.Blazor.Server.Client\\Data\\JobService.cs",
+              "RelativeToolTip": "Data\\JobService.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwC0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T19:05:14.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\Mingas\\Downloads\\tests\\Blazor\\Jobs.Blazor.Server.Client\\Jobs.Blazor.Server.Client\\App.razor",
+              "RelativeDocumentMoniker": "App.razor",
+              "ToolTip": "C:\\Users\\Mingas\\Downloads\\tests\\Blazor\\Jobs.Blazor.Server.Client\\Jobs.Blazor.Server.Client\\App.razor",
+              "RelativeToolTip": "App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T18:57:49.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Host.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mingas\\Downloads\\tests\\Blazor\\Jobs.Blazor.Server.Client\\Jobs.Blazor.Server.Client\\Pages\\_Host.cshtml",
+              "RelativeDocumentMoniker": "Pages\\_Host.cshtml",
+              "ToolTip": "C:\\Users\\Mingas\\Downloads\\tests\\Blazor\\Jobs.Blazor.Server.Client\\Jobs.Blazor.Server.Client\\Pages\\_Host.cshtml",
+              "RelativeToolTip": "Pages\\_Host.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T18:57:24.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Filter.razor",
+              "DocumentMoniker": "C:\\Users\\Mingas\\Downloads\\tests\\Blazor\\Jobs.Blazor.Server.Client\\Jobs.Blazor.Server.Client\\Pages\\JobsPage\\Filter.razor",
+              "RelativeDocumentMoniker": "Pages\\JobsPage\\Filter.razor",
+              "ToolTip": "C:\\Users\\Mingas\\Downloads\\tests\\Blazor\\Jobs.Blazor.Server.Client\\Jobs.Blazor.Server.Client\\Pages\\JobsPage\\Filter.razor",
+              "RelativeToolTip": "Pages\\JobsPage\\Filter.razor",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwB8AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T17:27:43.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JobsTable.razor",
+              "DocumentMoniker": "C:\\Users\\Mingas\\Downloads\\tests\\Blazor\\Jobs.Blazor.Server.Client\\Jobs.Blazor.Server.Client\\Pages\\JobsPage\\JobsTable.razor",
+              "RelativeDocumentMoniker": "Pages\\JobsPage\\JobsTable.razor",
+              "ToolTip": "C:\\Users\\Mingas\\Downloads\\tests\\Blazor\\Jobs.Blazor.Server.Client\\Jobs.Blazor.Server.Client\\Pages\\JobsPage\\JobsTable.razor",
+              "RelativeToolTip": "Pages\\JobsPage\\JobsTable.razor",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAEkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T13:34:22.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Mingas\\Downloads\\tests\\Blazor\\Jobs.Blazor.Server.Client\\Jobs.Blazor.Server.Client\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Mingas\\Downloads\\tests\\Blazor\\Jobs.Blazor.Server.Client\\Jobs.Blazor.Server.Client\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-23T06:13:37.83Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
