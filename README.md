@@ -1,4 +1,4 @@
-# Project Name: [Your Project Name Here]
+# Project Name: Blazor Project
 
 ## Overview
 
